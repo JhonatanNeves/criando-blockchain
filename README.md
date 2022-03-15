@@ -14,7 +14,7 @@ Nenhum
 
 ##### OK! 200
 
-Caso essa resposta aconteça , você receberá o retordo do blockchain
+Caso essa resposta aconteça , você receberá o retordo do blockchain  
 Exemplo de resposta:
 
 ```
@@ -41,7 +41,7 @@ Nenhum
 
 ##### OK! 200
 
-Caso essa resposta aconteça , retornará o block com uma mensagem.
+Caso essa resposta aconteça , retornará o block com uma mensagem.  
 Exemplo de resposta:
 
 ```
@@ -56,8 +56,7 @@ Exemplo de resposta:
 
 ##### Falha na mineração!
 
-Caso essa resposta aconteça, isso siginifica que aconteceu alguma falha durante o processo da requisição.
-
+Caso essa resposta aconteça, isso siginifica que aconteceu alguma falha durante o processo da requisição.  
 Exemplo de resposta:
 
 ```
@@ -76,7 +75,7 @@ Nenhum
 
 ##### OK! 200
 
-Caso essa resposta aconteça , você receberá uma mensagem.
+Caso essa resposta aconteça , você receberá uma mensagem.  
 Exemplo de resposta:
 
 ```
@@ -87,8 +86,7 @@ Exemplo de resposta:
 
 ##### Falha na autenticação! 401
 
-Caso essa resposta aconteça, isso siginifica que aconteceu alguma falha durante o processo de validação.
-
+Caso essa resposta aconteça, isso siginifica que aconteceu alguma falha durante o processo de validação.  
 Exemplo de resposta:
 
 ```
