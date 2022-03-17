@@ -30,7 +30,7 @@ Exemplo de resposta:
     "length": 1
 }
 ```
-### POST /mine_block
+### GET /mine_block
 
 Esse endpoint é responsável por fazer a mineraçao.
 
@@ -64,7 +64,7 @@ Exemplo de resposta:
 
 ```
 
-### POST /is_valid
+### GET /is_valid
 
 Esse endpoint é responsável por fazer a validação do blockchain.
 
